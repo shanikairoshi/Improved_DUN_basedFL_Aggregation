@@ -32,7 +32,8 @@ Each client in the system has a communication capability skew, where the probabi
 
 ## Results
 
-Based on the provided figures, it is evident that our proposed method, which incorporates regularization penalties and leverages a deep unfolding-based weighting strategy, achieves superior accuracy, lower losses and proper unbiasedness compared to other methods. The precise weighting strategy employed by our method contributes to these improved performance metrics.
+*  Based on the provided figures, it is evident that our proposed method, which incorporates regularization penalties and leverages a deep unfolding-based weighting strategy, achieves superior accuracy, lower losses and proper unbiasedness compared to other methods.
+*  The precise weighting strategy employed by our method contributes to these improved performance metrics.
 ![image](https://github.com/shanikairoshi/Improved_DUN_basedFL_Aggregation/assets/19671763/3d18bd26-2f4e-4d1b-a69a-cffb6d688349)
 ![image](https://github.com/shanikairoshi/Improved_DUN_basedFL_Aggregation/assets/19671763/b799e17b-f766-4736-a68d-32ce52ae6dcb)
 
@@ -42,8 +43,11 @@ Furthermore, we can achieve these results under low computational power due to l
 
 
 ## Acknowledgment
-Original method, which is called DUW_fedAvg extracted from the paper called "DEEP UNFOLDING-BASED WEIGHTED AVERAGING FOR FEDERATED LEARNING UNDER HETEROGENEOUS ENVIRONMENTS".
-Datasets are extracted from MNIST by using [this repository](https://github.com/a-nakai-k/DeepUnfolding-based-FL).
+- Original method, which is called DUW_fedAvg, extracted from [this paper] (https://arxiv.org/abs/2212.12191#:~:text=Device%20and%20statistical%20heterogeneity%20of%20the%20participating%20clients,model%20with%20high%20accuracy%20on%20uniform%20test%20data.)".
+
+- And we proposed a new approach that can achieve more accuracy and unbiasedness in FL aggregation.
+
+- Datasets are extracted from MNIST by using [this repository](https://github.com/a-nakai-k/DeepUnfolding-based-FL).
 
 
 
