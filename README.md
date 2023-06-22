@@ -9,6 +9,9 @@ Python 3.9, using matplotlib and numpy.
 
 ## System Setup
 
+The number of clients and rounds were fixed to K = 5, M = 100, and T = 10, respectively. We
+used three characteristic training datasets extracted from the MNIST dataset.
+
 1. Setting 01: This contains imbalanced data introducing statistical heterogeneity
 2. Setting 02: This setting skew the computational capabilities by adjusting several epochs while keeping balanced data.
 3. Setting 03: This setting skew communication capabilities while maintaining balanced data.
