@@ -43,7 +43,7 @@ Furthermore, we can achieve these results under low computational power due to l
 
 
 ## Acknowledgment
-- Original method, which is called DUW_fedAvg, extracted from [this paper] (https://arxiv.org/abs/2212.12191#:~:text=Device%20and%20statistical%20heterogeneity%20of%20the%20participating%20clients,model%20with%20high%20accuracy%20on%20uniform%20test%20data.)".
+- Original method, which is called DUW_fedAvg, extracted from [this paper](https://arxiv.org/abs/2212.12191#:~:text=Device%20and%20statistical%20heterogeneity%20of%20the%20participating%20clients,model%20with%20high%20accuracy%20on%20uniform%20test%20data.)
 
 - And we proposed a new approach that can achieve more accuracy and unbiasedness in FL aggregation.
 
