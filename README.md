@@ -22,11 +22,11 @@ used three characteristic training datasets extracted from the MNIST dataset.
 
 You can directly run these Python code.
 
-1. Settings1_DUNFL_R.py: Code for setting I.
+1. Settings1_DUNFL_R.ipynb: Code for setting I.
 The distribution of data quantity is unbalanced across clients.
-3. Settings2_DUNFL_R.py: Code for setting III
+3. Settings2_DUNFL_R.ipynb: Code for setting III
 The clients in the system have different computational capabilities, which results in a variation in the number of epochs they can calculate during a round.
-4. Settings3_DUNFL_R.py: Code for setting IV
+4. Settings3_DUNFL_R.ipynb: Code for setting IV
 Each client in the system has a communication capability skew, where the probability of transmitting the model parameters varies.
 
 
