@@ -1,6 +1,6 @@
 ## Improved_DUN_basedFL_Aggregation
 
-This repository is the Python implementation of the paper: titled "Improving Federated Aggregation with Deep Unfolding Networks.
+This repository is the Python implementation of the paper: titled "Improving Federated Aggregation with Deep Unfolding Networks", which is inspired by "DEEP UNFOLDING-BASED WEIGHTED AVERAGING FOR FEDERATED LEARNING UNDER HETEROGENEOUS ENVIRONMENTS"
 
 ## Requirements
 
