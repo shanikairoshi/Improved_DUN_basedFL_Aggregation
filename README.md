@@ -32,3 +32,5 @@ Each client in the system has a communication capability skew, where the probabi
 
 ## Results
 ![image](https://github.com/shanikairoshi/Improved_DUN_basedFL_Aggregation/assets/19671763/3d18bd26-2f4e-4d1b-a69a-cffb6d688349)
+![image](https://github.com/shanikairoshi/Improved_DUN_basedFL_Aggregation/assets/19671763/b799e17b-f766-4736-a68d-32ce52ae6dcb)
+
