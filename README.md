@@ -7,11 +7,15 @@ This repository is the Python implementation of the paper: titled "Improving Fed
 This code is implemented in 
 Python 3.9, using matplotlib and numpy.
 
-# Training Settings
+## System Setup
+
+1. Setting 01: This contains imbalanced data introducing statistical heterogeneity
+2. Setting 02: This setting skew the computational capabilities by adjusting several epochs while keeping balanced data.
+3. Setting 03: This setting skew communication capabilities while maintaining balanced data.
 
 
 
-# Usage
+## Usage
 
 You can directly run these python code.
 
