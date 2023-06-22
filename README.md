@@ -20,10 +20,13 @@ used three characteristic training datasets extracted from the MNIST dataset.
 
 ## Usage
 
-You can directly run these python code.
+You can directly run these Python code.
 
 1. main_env1.py: Code for setting I.
-2. main_env2.py: Code for setting III containing computational capability skew. The number of epochs that can calculate during a round varies across clients.
-3. main_env3.py: Code for setting IV containing communication capability skew. Each client can transmit the model parameters only with a certain probability.
+The distribution of data quantity is unbalanced across clients.
+3. main_env2.py: Code for setting III
+The clients in the system have different computational capabilities, which results in a variation in the number of epochs they can calculate during a round.
+4. main_env3.py: Code for setting IV
+Each client in the system has a communication capability skew, where the probability of transmitting the model parameters varies.
 
 
