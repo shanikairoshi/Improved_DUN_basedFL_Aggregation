@@ -41,6 +41,10 @@ Furthermore, we can achieve these results under low computational power due to l
 ![image](https://github.com/shanikairoshi/Improved_DUN_basedFL_Aggregation/assets/19671763/08b577d9-1fe3-4c82-835b-d21b195b0c0b)
 
 
+## Acknowledgment
+Original method, which is called DUW_fedAvg extracted from the paper called "DEEP UNFOLDING-BASED WEIGHTED AVERAGING FOR FEDERATED LEARNING UNDER HETEROGENEOUS ENVIRONMENTS".
+Datasets are extracted from MNIST by using [this repository](https://github.com/a-nakai-k/DeepUnfolding-based-FL).
+
 
 
 
