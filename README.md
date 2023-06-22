@@ -36,5 +36,12 @@ Based on the provided figures, it is evident that our proposed method, which inc
 ![image](https://github.com/shanikairoshi/Improved_DUN_basedFL_Aggregation/assets/19671763/3d18bd26-2f4e-4d1b-a69a-cffb6d688349)
 ![image](https://github.com/shanikairoshi/Improved_DUN_basedFL_Aggregation/assets/19671763/b799e17b-f766-4736-a68d-32ce52ae6dcb)
 
+Furthermore, we can achieve these results under low computational power due to lower training iterations. The following table shows the complexity reduction aas the percentage.
+
+![image](https://github.com/shanikairoshi/Improved_DUN_basedFL_Aggregation/assets/19671763/08b577d9-1fe3-4c82-835b-d21b195b0c0b)
+
+
+
+
 
 
