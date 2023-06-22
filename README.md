@@ -30,3 +30,5 @@ The clients in the system have different computational capabilities, which resul
 Each client in the system has a communication capability skew, where the probability of transmitting the model parameters varies.
 
 
+## Results
+![image](https://github.com/shanikairoshi/Improved_DUN_basedFL_Aggregation/assets/19671763/3d18bd26-2f4e-4d1b-a69a-cffb6d688349)
