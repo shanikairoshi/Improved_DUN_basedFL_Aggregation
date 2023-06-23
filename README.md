@@ -29,17 +29,21 @@ The clients in the system have different computational capabilities, which resul
 4. Settings3_DUNFL_R.ipynb: Code for setting IV
 Each client in the system has a communication capability skew, where the probability of transmitting the model parameters varies.
 
+## Algorithm
+We fine-tunned our algorithm as follows;
+
+![image](https://github.com/shanikairoshi/Improved_DUN_basedFL_Aggregation/blob/main/Figures/Algo.JPG)
 
 ## Results
 
 *  Based on the provided figures, it is evident that our proposed method, which incorporates regularization penalties and leverages a deep unfolding-based weighting strategy, achieves superior accuracy, lower losses and proper unbiasedness compared to other methods.
 *  The precise weighting strategy employed by our method contributes to these improved performance metrics.
-![image]([https://github.com/shanikairoshi/Improved_DUN_basedFL_Aggregation/blob/main/Figures/AccLoss.JPG])
-![image]([https://github.com/shanikairoshi/Improved_DUN_basedFL_Aggregation/blob/main/Figures/LearnedTheta.JPG])
+![image](https://github.com/shanikairoshi/Improved_DUN_basedFL_Aggregation/blob/main/Figures/AccLoss.JPG)
+![image](https://github.com/shanikairoshi/Improved_DUN_basedFL_Aggregation/blob/main/Figures/LearnedTheta.JPG)
 
 Furthermore, we can achieve these results under low computational power due to lower training iterations. The following table shows the complexity reduction aas the percentage.
 
-![image]([https://github.com/shanikairoshi/Improved_DUN_basedFL_Aggregation/blob/main/Figures/Eva.JPG])
+![image](https://github.com/shanikairoshi/Improved_DUN_basedFL_Aggregation/blob/main/Figures/Eva.JPG)
 
 
 ## Acknowledgment
