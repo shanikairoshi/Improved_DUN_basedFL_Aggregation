@@ -35,11 +35,11 @@ Each client in the system has a communication capability skew, where the probabi
 *  Based on the provided figures, it is evident that our proposed method, which incorporates regularization penalties and leverages a deep unfolding-based weighting strategy, achieves superior accuracy, lower losses and proper unbiasedness compared to other methods.
 *  The precise weighting strategy employed by our method contributes to these improved performance metrics.
 ![image]([https://github.com/shanikairoshi/Improved_DUN_basedFL_Aggregation/blob/main/Figures/AccLoss.JPG])
-![image](https://github.com/shanikairoshi/Improved_DUN_basedFL_Aggregation/blob/main/Figures/LearnedTheta.JPG)
+![image]([https://github.com/shanikairoshi/Improved_DUN_basedFL_Aggregation/blob/main/Figures/LearnedTheta.JPG])
 
 Furthermore, we can achieve these results under low computational power due to lower training iterations. The following table shows the complexity reduction aas the percentage.
 
-![image](https://github.com/shanikairoshi/Improved_DUN_basedFL_Aggregation/assets/19671763/08b577d9-1fe3-4c82-835b-d21b195b0c0b)
+![image]([https://github.com/shanikairoshi/Improved_DUN_basedFL_Aggregation/blob/main/Figures/Eva.JPG])
 
 
 ## Acknowledgment
