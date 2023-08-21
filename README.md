@@ -1,4 +1,4 @@
-## Improved_DUN_basedFL_Aggregation
+## Improved DUN based FL Aggregation
 
 This repository is the Python implementation of the paper: "Improving Federated Aggregation with Deep Unfolding Networks". submitted to IEEE network Letters, 2023
 
